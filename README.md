@@ -1,8 +1,8 @@
-## Hello
+### 🧠 Main stack
+<img src="https://skillicons.dev/icons?i=java" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
-</p>
+### 🧪 Learning
+<img src="https://skillicons.dev/icons?i=js,html,css, cpp, lua" />
 <!--
 **oksimvey/oksimvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
