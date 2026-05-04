@@ -2,8 +2,9 @@
 <img src="https://skillicons.dev/icons?i=java" />
 
 ### 🧪 Learning
-<img src="https://skillicons.dev/icons?i=js,html,css,cpp,lua" /><p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,cpp" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="48"/>
 </p>
 <!--
 **oksimvey/oksimvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
