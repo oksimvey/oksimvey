@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <!--
 **oksimvey/oksimvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
