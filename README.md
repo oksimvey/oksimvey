@@ -3,6 +3,7 @@
 
 ### 🧪 Learning
 <img src="https://skillicons.dev/icons?i=js,html,css,cpp,lua" />
+<img src="https://skillicons.dev/icons?i=threejs,webgl" />
 <!--
 **oksimvey/oksimvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
