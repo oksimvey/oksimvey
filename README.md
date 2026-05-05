@@ -4,8 +4,7 @@
 ### 🧪 Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,cpp" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webgl/webgl-original.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/expressjs/expressjs.com/gh-pages/images/favicon.png" height="0"/> <!-- placeholder idea -->
+  <img src="https://avatars.githubusercontent.com/u/77964011" height="48" title="Luau"/>
 </p>
 <!--
 **oksimvey/oksimvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
