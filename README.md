@@ -3,9 +3,8 @@
 
 ### 🧪 Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,cpp" height="48"/>
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,cpp" height="48"/>
   <img src="https://www.khronos.org/assets/images/api_logos/webgl.svg" height="48" title="WebGL"/>
-  <img src="https://luau-lang.org/assets/images/luau-white.svg" height="48" title="Luau"/>
 </p>
 <!--
 **oksimvey/oksimvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
