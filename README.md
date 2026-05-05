@@ -3,7 +3,7 @@
 
 ### 🧪 Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,cpp" height="48"/>
+  <img src="https://skillicons.dev/icons?i=luau,js,html,css,cpp" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="48"/>
 </p>
 <!--
