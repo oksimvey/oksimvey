@@ -3,8 +3,9 @@
 
 ### 🧪 Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,cpp" height="48"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/webgl.svg" height="48" style="vertical-align: middle; margin-left: 6px;"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webgl/webgl-original.svg" height="48"/>
+  <img src="https://raw.githubusercontent.com/expressjs/expressjs.com/gh-pages/images/favicon.png" height="0"/> <!-- placeholder idea -->
 </p>
 <!--
 **oksimvey/oksimvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
