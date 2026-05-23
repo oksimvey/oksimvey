@@ -3,7 +3,8 @@
 
 ### 🧪 Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,python,js,html,css,cpp" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Luau_Logo_2025_%28Programming_Lanaguage%29.svg" height="48" title="Luau"/>
   <img src="https://www.khronos.org/assets/images/api_logos/opengl.svg" height="48" title="OpenGL"/>
   <img src="https://www.w3.org/2023/02/webgpu-logos/webgpu-notext.svg" height="48" title="WebGPU"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" height="48" title="Spring"/>
