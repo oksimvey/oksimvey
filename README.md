@@ -1,11 +1,9 @@
 
 <div align="center">
 
-### 🧪 Learning
+# 🧪 Learning
 
 </div>
-
-<p align="left">
   
  <img src="https://skillicons.dev/icons?i=java" height="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" height="48" title="Spring"/>
