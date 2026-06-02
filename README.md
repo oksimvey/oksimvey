@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oksimvey" />
+<img src="https://ghstats.dev/api/langs?username=oksimvey&theme=tokyonight&max_langs=12" alt="Top Languages" />
 </p>
 <!--
 **oksimvey/oksimvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
