@@ -19,6 +19,10 @@
   <img src="https://www.w3.org/2023/02/webgpu-logos/webgpu-notext.svg" height="48" title="WebGPU"/>
   
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oksimvey" />
+</p>
 <!--
 **oksimvey/oksimvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
