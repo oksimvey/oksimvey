@@ -1,9 +1,10 @@
 
-<p align="center">
-  
+<div align="center">
+
 ### 🧪 Learning
 
-</p>
+</div>
+
 <p align="left">
   
  <img src="https://skillicons.dev/icons?i=java" height="48" />
