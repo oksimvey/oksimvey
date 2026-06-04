@@ -1,8 +1,4 @@
 
-<p align="center">
-<img src="https://ghstats.dev/api/langs?username=oksimvey&theme=catppuccin&max_langs=12" alt="Top Languages" />
-</p>
-
 
 <div align="center">
   
@@ -17,7 +13,7 @@
    <img src = "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="48" title="PostgreeSQL"/>
  <img src="https://skillicons.dev/icons?i=cpp" height="48" />
  
-  <img src="https://github.com/oksimvey/quantc/blob/main/icons/quantc-icon.svg" height="48" title="QuantC"/>
+  <img src="https://github.com/oksimvey/quantcextension/blob/main/icons/quantc-icon.svg" height="48" title="QuantC"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Luau_Logo_2025_%28Programming_Lanaguage%29.svg" height="48" title="Luau"/>
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" height="48"/>
   <img src="https://www.khronos.org/assets/images/api_logos/opengl.svg" height="48" title="OpenGL"/>
